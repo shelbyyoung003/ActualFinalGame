@@ -2,15 +2,15 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-[CreateAssetMenu]
-public class AddToCollection: ScriptableObject
-{
+public class AddToCollections : MonoBehaviour {
 
-	public ObjectCollection Collection;
-
-	public void Call(ScriptableObject obj)
-	{
-		Collection.ObjectList.Add(obj);
+	// Use this for initialization
+	void Start () {
+		
 	}
-
+	
+	// Update is called once per frame
+	void Update () {
+		
+	}
 }

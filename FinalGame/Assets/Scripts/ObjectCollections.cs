@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 
 [CreateAssetMenu]
-public class ObjectCollection : ScriptableObject
+public class ObjectCollections : ScriptableObject
 {
 
-    public List<ScriptableObject> ObjectList;
+	public List<ScriptableObject> ObjectList;
 
 }

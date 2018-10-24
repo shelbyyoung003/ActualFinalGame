@@ -8,6 +8,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d1b05895515a83b489382c3934df0fda, type: 3}
-  m_Name: Peach
+  m_Script: {fileID: 11500000, guid: dea7345347243254c8cc5d29443bdcd1, type: 3}
+  m_Name: VillainWeapons 1
   m_EditorClassIdentifier: 
+  ObjectList:
+  - {fileID: 11400000, guid: b81d5611064d8fe468d3ed3913cb0cf4, type: 2}
+  - {fileID: 11400000, guid: c81e0db74eddc8245a4fd2139ccc41f2, type: 2}
