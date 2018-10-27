@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="97fecc89-3cc3-4995-8a60-9f98a35af988" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.FinalGame/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FinalGame/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.FinalGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FinalGame/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Peach/Heroes/Peach.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Peach/Heroes/Peach.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/AddtoCollections.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/AddtoCollections.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ObjectCollections.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ObjectCollections.cs" afterDir="false" />
-    </list>
+    <list default="true" id="97fecc89-3cc3-4995-8a60-9f98a35af988" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +12,7 @@
     <session id="1690793898">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.28" value="1" />
           <entry key="project.opened" value="2" />
@@ -155,7 +148,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
+    <option name="x" value="458" />
+    <option name="y" value="201" />
     <option name="width" value="980" />
     <option name="height" value="1040" />
   </component>
@@ -219,12 +213,12 @@
       <option name="presentableId" value="Default" />
       <updated>1540265653158</updated>
       <workItem from="1540265665839" duration="1092000" />
-      <workItem from="1540346793958" duration="684000" />
+      <workItem from="1540346793958" duration="869000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1776000" />
+    <option name="totallyTimeSpent" value="1961000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -237,7 +231,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.25302014" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -330,7 +323,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/AddtoCollections.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/AddToCollections.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
