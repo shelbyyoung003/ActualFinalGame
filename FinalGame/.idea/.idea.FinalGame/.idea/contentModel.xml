@@ -11,8 +11,11 @@
           <e p="CharacterMover.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
           <e p="Loops.cs" t="Include" />
+          <e p="MouseEventBehaviour.cs" t="Include" />
           <e p="NameID.cs" t="Include" />
           <e p="ObjectCollections.cs" t="Include" />
+          <e p="UpdateImageValue.cs" t="Include" />
+          <e p="ValueChange.cs" t="Include" />
         </e>
       </e>
       <e p="FinalGame.sln" t="IncludeFlat" />
