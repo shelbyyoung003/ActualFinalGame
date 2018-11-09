@@ -751,6 +751,7 @@ GameObject:
   - component: {fileID: 1630267501}
   - component: {fileID: 1630267505}
   - component: {fileID: 1630267506}
+  - component: {fileID: 1630267507}
   m_Layer: 0
   m_Name: Peach
   m_TagString: Untagged
@@ -896,3 +897,15 @@ NavMeshObstacle:
   m_CarveOnlyStationary: 1
   m_Center: {x: 0, y: 0, z: 0}
   m_TimeToStationary: 0.5
+--- !u!65 &1630267507
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1630267500}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 5.12, y: 5.12, z: 0.2}
+  m_Center: {x: 0, y: 0, z: 0}
