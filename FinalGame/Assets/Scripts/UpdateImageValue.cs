@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using System;
+using UnityEngine;
 using UnityEngine.UI;
 
 public class UpdateImageValue : MonoBehaviour
@@ -17,5 +18,12 @@ public class UpdateImageValue : MonoBehaviour
 	void Update ()
 	{
 		image.fillAmount = Data.Value;
+
+		if (image.fillAmount == 0)
+		{
+			print("You have died.");
+		}
 	}
+
+	
 }
