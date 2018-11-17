@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97fecc89-3cc3-4995-8a60-9f98a35af988" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.FinalGame/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FinalGame/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.FinalGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FinalGame/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UpdateImageValue.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/UpdateImageValue.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Ripley Spite.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Ripley Spite.jpg.meta" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,20 +52,21 @@
     <session id="1447508100">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="185" />
+          <entry key="cs" value="241" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="185" />
+          <entry key="C#" value="241" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -89,14 +86,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/UpdateImageValue.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+            <state relative-caret-position="360">
+              <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
               <folding>
-                <marker date="1542310714000" expanded="true" signature="6:54" ph="..." />
-                <marker date="1542310714000" expanded="true" signature="101:408" ph="{...}" />
-                <marker date="1542310714000" expanded="true" signature="205:245" ph="{...}" />
-                <marker date="1542310714000" expanded="true" signature="299:338" ph="{...}" />
-                <marker date="1542310714000" expanded="true" signature="365:401" ph="{...}" />
+                <marker date="1542310820000" expanded="true" signature="6:54" ph="..." />
+                <marker date="1542310820000" expanded="true" signature="198:238" ph="{...}" />
+                <marker date="1542310820000" expanded="true" signature="292:397" ph="{...}" />
+                <marker date="1542310820000" expanded="true" signature="358:394" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -196,8 +192,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="408" />
-    <option name="y" value="52" />
+    <option name="x" value="407" />
+    <option name="y" value="51" />
     <option name="width" value="785" />
     <option name="height" value="835" />
   </component>
@@ -270,12 +266,13 @@
       <workItem from="1541725308936" duration="30000" />
       <workItem from="1541784500243" duration="635000" />
       <workItem from="1542309800398" duration="38000" />
-      <workItem from="1542310334253" duration="385000" />
+      <workItem from="1542310334253" duration="982000" />
+      <workItem from="1542424992566" duration="15000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6034000" />
+    <option name="totallyTimeSpent" value="6646000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -287,10 +284,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="327" y="42" width="628" height="668" extended-state="0" />
+    <frame x="326" y="41" width="628" height="668" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.9119718" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.9119718" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -405,6 +402,19 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/UpdateImage.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/UpdateImageValue.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+          <folding>
+            <marker date="1542310820000" expanded="true" signature="6:54" ph="..." />
+            <marker date="1542310820000" expanded="true" signature="198:238" ph="{...}" />
+            <marker date="1542310820000" expanded="true" signature="292:397" ph="{...}" />
+            <marker date="1542310820000" expanded="true" signature="358:394" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/MouseEventBehaviour.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -418,22 +428,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DestroyObject.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-          <folding>
-            <marker date="1541784536000" expanded="true" signature="6:78" ph="..." />
-            <marker date="1541784536000" expanded="true" signature="123:329" ph="{...}" />
-            <marker date="1541784536000" expanded="true" signature="149:220" ph="{...}" />
-            <marker date="1541784536000" expanded="true" signature="269:327" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../PracticeAndHomework/Practice/Assets/Scripts/IfStatement.cs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/ValueChange.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -446,16 +440,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/UpdateImageValue.cs">
+    <entry file="file://$PROJECT_DIR$/../../PracticeAndHomework/Practice/Assets/Scripts/IfStatement.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DestroyObject.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        <state relative-caret-position="285">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
           <folding>
-            <marker date="1542310714000" expanded="true" signature="6:54" ph="..." />
-            <marker date="1542310714000" expanded="true" signature="101:408" ph="{...}" />
-            <marker date="1542310714000" expanded="true" signature="205:245" ph="{...}" />
-            <marker date="1542310714000" expanded="true" signature="299:338" ph="{...}" />
-            <marker date="1542310714000" expanded="true" signature="365:401" ph="{...}" />
+            <marker date="1541784536000" expanded="true" signature="6:78" ph="..." />
+            <marker date="1541784536000" expanded="true" signature="123:329" ph="{...}" />
+            <marker date="1541784536000" expanded="true" signature="149:220" ph="{...}" />
+            <marker date="1541784536000" expanded="true" signature="269:327" ph="{...}" />
           </folding>
         </state>
       </provider>
