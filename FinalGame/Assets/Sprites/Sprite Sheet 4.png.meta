@@ -1,11 +1,9 @@
 fileFormatVersion: 2
-guid: 5fb9f66ed9103ff469b06ba46d3b243f
+guid: 67b7350d7e106cb47a5b3fd59a59ea4f
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Sign
-    21300002: Stairs
-    21300004: Cookie
-    21300006: Arrow
+    21300000: Echo Dialogue
+    21300002: Elder Updated Dialogue
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -88,13 +86,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Sign
+      name: Echo Dialogue
       rect:
         serializedVersion: 2
-        x: 54
-        y: 549
-        width: 382
-        height: 439
+        x: 26
+        y: 648
+        width: 500
+        height: 349
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -102,67 +100,27 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 96c6efde6f0e75f4c90bc05194ae7c1a
+      spriteID: 1c4f077c31bc5004b9d2d7ea39e2546a
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Stairs
+      name: Elder Updated Dialogue
       rect:
         serializedVersion: 2
-        x: 474
-        y: 578
-        width: 454
-        height: 380
+        x: 479
+        y: 17
+        width: 527
+        height: 349
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b71c79028a0238044be9d893a01f1dc7
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cookie
-      rect:
-        serializedVersion: 2
-        x: 35
-        y: 30
-        width: 406
-        height: 391
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f6718be272a6cb9479a911430f16001f
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arrow
-      rect:
-        serializedVersion: 2
-        x: 470
-        y: 97
-        width: 542
-        height: 182
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4f1a7b89a935dd04789036a60404cf67
+      spriteID: 0fff8db811a4b1d40bfce9ccf7c922c9
       vertices: []
       indices: 
       edges: []
@@ -170,7 +128,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 59478d14e0e9eab4eaeb1e5886cf70d3
+    spriteID: 03d171ad85ce39241a884675b4c44d3f
     vertices: []
     indices: 
     edges: []

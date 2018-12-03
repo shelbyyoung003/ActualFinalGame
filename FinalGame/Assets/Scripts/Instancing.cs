@@ -13,7 +13,7 @@ public class Instancing : MonoBehaviour
 		if (Input.GetKeyDown(KeyCode.X))
 		{
 			Instantiate(Instance, transform.position, transform.rotation);
-			
+
 		}
 	}
 	
