@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97fecc89-3cc3-4995-8a60-9f98a35af988" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Final Game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Final Game.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/FloatData/Health.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/FloatData/Health.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Instancing.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Instancing.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FinalGame/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FinalGame/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FinalGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FinalGame/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,12 +53,13 @@
     <session id="1447508100">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.34" value="1" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -93,7 +93,6 @@
               <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
               <folding>
                 <marker date="1542310820000" expanded="false" signature="6:54" ph="..." />
-                <marker date="1542310820000" expanded="true" signature="101:402" ph="{...}" />
                 <marker date="1542310820000" expanded="true" signature="198:238" ph="{...}" />
                 <marker date="1542310820000" expanded="true" signature="292:397" ph="{...}" />
                 <marker date="1542310820000" expanded="true" signature="358:394" ph="{...}" />
@@ -109,7 +108,6 @@
               <caret line="14" column="74" selection-start-line="14" selection-start-column="74" selection-end-line="14" selection-end-column="74" />
               <folding>
                 <marker date="1543646086000" expanded="false" signature="6:78" ph="..." />
-                <marker date="1543646086000" expanded="true" signature="119:292" ph="{...}" />
                 <marker date="1543646086000" expanded="true" signature="170:286" ph="{...}" />
                 <marker date="1543646086000" expanded="true" signature="208:283" ph="{...}" />
               </folding>
@@ -213,10 +211,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="406" />
-    <option name="y" value="50" />
-    <option name="width" value="785" />
-    <option name="height" value="835" />
+    <option name="x" value="951" />
+    <option name="width" value="978" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -290,11 +287,14 @@
       <workItem from="1542310334253" duration="982000" />
       <workItem from="1542424992566" duration="15000" />
       <workItem from="1543644144671" duration="676000" />
+      <workItem from="1544077599600" duration="598000" />
+      <workItem from="1544078792230" duration="341000" />
+      <workItem from="1544080180882" duration="15000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7322000" />
+    <option name="totallyTimeSpent" value="8276000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -306,9 +306,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="325" y="40" width="628" height="668" extended-state="0" />
+    <frame x="761" y="0" width="782" height="831" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.9471831" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.767313" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -429,10 +430,21 @@
           <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
           <folding>
             <marker date="1542310820000" expanded="false" signature="6:54" ph="..." />
-            <marker date="1542310820000" expanded="true" signature="101:402" ph="{...}" />
             <marker date="1542310820000" expanded="true" signature="198:238" ph="{...}" />
             <marker date="1542310820000" expanded="true" signature="292:397" ph="{...}" />
             <marker date="1542310820000" expanded="true" signature="358:394" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Instancing.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" column="74" selection-start-line="14" selection-start-column="74" selection-end-line="14" selection-end-column="74" />
+          <folding>
+            <marker date="1543646086000" expanded="false" signature="6:78" ph="..." />
+            <marker date="1543646086000" expanded="true" signature="170:286" ph="{...}" />
+            <marker date="1543646086000" expanded="true" signature="208:283" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -461,19 +473,6 @@
             <marker date="1541784536000" expanded="true" signature="123:329" ph="{...}" />
             <marker date="1541784536000" expanded="true" signature="149:220" ph="{...}" />
             <marker date="1541784536000" expanded="true" signature="269:327" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Instancing.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="14" column="74" selection-start-line="14" selection-start-column="74" selection-end-line="14" selection-end-column="74" />
-          <folding>
-            <marker date="1543646086000" expanded="false" signature="6:78" ph="..." />
-            <marker date="1543646086000" expanded="true" signature="119:292" ph="{...}" />
-            <marker date="1543646086000" expanded="true" signature="170:286" ph="{...}" />
-            <marker date="1543646086000" expanded="true" signature="208:283" ph="{...}" />
           </folding>
         </state>
       </provider>

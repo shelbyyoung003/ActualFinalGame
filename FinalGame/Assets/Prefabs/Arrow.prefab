@@ -25,6 +25,7 @@ GameObject:
   - component: {fileID: 114147842806588756}
   - component: {fileID: 114494818460212360}
   - component: {fileID: 65813905278191096}
+  - component: {fileID: 114145630873234598}
   m_Layer: 0
   m_Name: Arrow
   m_TagString: Untagged
@@ -67,9 +68,21 @@ ConstantForce:
   m_GameObject: {fileID: 1163099198343592}
   m_Enabled: 1
   m_Force: {x: 0, y: 0, z: 0}
-  m_RelativeForce: {x: 10, y: 0, z: 0}
+  m_RelativeForce: {x: -10, y: 0, z: 0}
   m_Torque: {x: 0, y: 0, z: 0}
   m_RelativeTorque: {x: 0, y: 0, z: 0}
+--- !u!114 &114145630873234598
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1163099198343592}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2f8142bcaeea8146a0f7b7136c87464, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Movement: {x: 0, y: 180, z: 0}
 --- !u!114 &114147842806588756
 MonoBehaviour:
   m_ObjectHideFlags: 1
