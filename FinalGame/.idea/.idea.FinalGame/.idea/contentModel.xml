@@ -15,12 +15,14 @@
           <e p="DestroyObject.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
           <e p="FollowerAI.cs" t="Include" />
+          <e p="GameStates.cs" t="Include" />
           <e p="Instancing.cs" t="Include" />
           <e p="Loops.cs" t="Include" />
           <e p="MouseDownBehaviour.cs" t="Include" />
           <e p="MouseEventBehaviour.cs" t="Include" />
           <e p="NameID.cs" t="Include" />
           <e p="ObjectCollections.cs" t="Include" />
+          <e p="SwitchStatements.cs" t="Include" />
           <e p="TriggerEventBehaviour.cs" t="Include" />
           <e p="UpdateImageValue.cs" t="Include" />
           <e p="ValueChange.cs" t="Include" />

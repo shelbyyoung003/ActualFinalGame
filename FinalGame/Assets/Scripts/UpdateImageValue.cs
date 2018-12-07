@@ -6,6 +6,7 @@ public class UpdateImageValue : MonoBehaviour
 {
 	public FloatData Data;
 	private Image image;
+	public GameStates.States GameState;
 	
 	// Use this for initialization
 	void Start ()
@@ -21,7 +22,21 @@ public class UpdateImageValue : MonoBehaviour
 
 		if (image.fillAmount == 0)
 		{
-			print("You have died.");
+			switch (GameState)
+			{
+				case GameStates.States.Ending:
+					print("We are ending the Game!");
+					break;
+			}
+		}
+		else
+		{
+			switch (GameState)
+			{
+					case GameStates.States.Playing :
+						print("We are playing the Game!");
+						break;
+			}
 		}
 	}
 

@@ -6219,6 +6219,73 @@ RectTransform:
   m_AnchoredPosition: {x: 11.09, y: 24.89}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!1 &477645178
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 477645180}
+  - component: {fileID: 477645179}
+  m_Layer: 0
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &477645179
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 477645178}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c97e6ce61b0e9d242b5f578c420456aa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  GameState: 1
+  Starting:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  Playing:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 0}
+        m_MethodName: 
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: 
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  Ending:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+--- !u!4 &477645180
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 477645178}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 3.1979194, y: 26.19069, z: -2.2423828}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 64
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &482269288
 GameObject:
   m_ObjectHideFlags: 0
@@ -7206,6 +7273,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Data: {fileID: 11400000, guid: 128fadda5e16fd84b912f149a7851144, type: 2}
+  GameState: 0
 --- !u!114 &712486483
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7561,6 +7629,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Data: {fileID: 11400000, guid: bfa17f6a1aec28149b273390029e47cf, type: 2}
+  GameState: 0
 --- !u!114 &802244339
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9596,6 +9665,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Data: {fileID: 11400000, guid: f88e344351a57c749baea4086e8a726a, type: 2}
+  GameState: 0
 --- !u!114 &1249842555
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15257,6 +15327,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Data: {fileID: 11400000, guid: ccd686befed719641bf260109e4d109c, type: 2}
+  GameState: 0
 --- !u!114 &1729555759
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -20900,6 +20971,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Data: {fileID: 11400000, guid: 778b5f50ccd264a4194c7868ee7145c6, type: 2}
+  GameState: 0
 --- !u!114 &2008580362
 MonoBehaviour:
   m_ObjectHideFlags: 0
