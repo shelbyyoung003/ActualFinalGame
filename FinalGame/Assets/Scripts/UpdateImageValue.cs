@@ -22,21 +22,11 @@ public class UpdateImageValue : MonoBehaviour
 
 		if (image.fillAmount == 0)
 		{
-			switch (GameState)
-			{
-				case GameStates.States.Ending:
-					print("We are ending the Game!");
-					break;
-			}
+			print("You have died.");
 		}
 		else
 		{
-			switch (GameState)
-			{
-					case GameStates.States.Playing :
-						print("We are playing the Game!");
-						break;
-			}
+			print("Keep going, Peach! We believe in you!");
 		}
 	}
 

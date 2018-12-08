@@ -9,6 +9,7 @@
         <e p="Scripts" t="Include">
           <e p="AddToCollections.cs" t="Include" />
           <e p="ArrowFix.cs" t="Include" />
+          <e p="BulletLoop.cs" t="Include" />
           <e p="CharacterMover.cs" t="Include" />
           <e p="CookieMovement.cs" t="Include" />
           <e p="Counter.cs" t="Include" />
@@ -17,6 +18,7 @@
           <e p="FollowerAI.cs" t="Include" />
           <e p="GameStates.cs" t="Include" />
           <e p="Instancing.cs" t="Include" />
+          <e p="LoopInstantiate.cs" t="Include" />
           <e p="Loops.cs" t="Include" />
           <e p="MouseDownBehaviour.cs" t="Include" />
           <e p="MouseEventBehaviour.cs" t="Include" />
