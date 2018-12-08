@@ -32,7 +32,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!54 &54682015692552428
 Rigidbody:
   m_ObjectHideFlags: 1
@@ -113,54 +113,17 @@ MonoBehaviour:
   Trigger:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 11400000, guid: a888cb0bda83b904e83591aa6100fefb, type: 2}
-        m_MethodName: SubtractValue
-        m_Mode: 2
+      - m_Target: {fileID: 0}
+        m_MethodName: 
+        m_Mode: 1
         m_Arguments:
-          m_ObjectArgument: {fileID: 11400000, guid: 59158ca14036ddb4185788dbbd124172,
-            type: 2}
-          m_ObjectArgumentAssemblyTypeName: FloatData, Assembly-CSharp
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: 
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
-        m_CallState: 2
-      - m_Target: {fileID: 11400000, guid: eb1a73ea4e360964bb8021e014543a7b, type: 2}
-        m_MethodName: SubtractValue
-        m_Mode: 2
-        m_Arguments:
-          m_ObjectArgument: {fileID: 11400000, guid: 59158ca14036ddb4185788dbbd124172,
-            type: 2}
-          m_ObjectArgumentAssemblyTypeName: FloatData, Assembly-CSharp
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-      - m_Target: {fileID: 11400000, guid: 0f5df8ae9faf39141bbfb428194a4d68, type: 2}
-        m_MethodName: SubtractValue
-        m_Mode: 2
-        m_Arguments:
-          m_ObjectArgument: {fileID: 11400000, guid: 59158ca14036ddb4185788dbbd124172,
-            type: 2}
-          m_ObjectArgumentAssemblyTypeName: FloatData, Assembly-CSharp
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-      - m_Target: {fileID: 11400000, guid: a70c6077f51a5474285a860387637a66, type: 2}
-        m_MethodName: SubtractValue
-        m_Mode: 2
-        m_Arguments:
-          m_ObjectArgument: {fileID: 11400000, guid: 1150bdd227a46a84390c6d0a174b89e2,
-            type: 2}
-          m_ObjectArgumentAssemblyTypeName: FloatData, Assembly-CSharp
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+        m_CallState: 1
     m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
 --- !u!212 &212193108614451886

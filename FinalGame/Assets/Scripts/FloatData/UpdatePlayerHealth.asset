@@ -11,4 +11,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ee6877e532921cb4591fffb3e83c9396, type: 3}
   m_Name: UpdatePlayerHealth
   m_EditorClassIdentifier: 
-  Data: {fileID: 11400000, guid: bfa17f6a1aec28149b273390029e47cf, type: 2}
+  Data: {fileID: 11400000, guid: 62c9a880db4ced94f8c87eb9b6b1c999, type: 2}
