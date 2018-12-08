@@ -8,11 +8,13 @@
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
           <e p="AddToCollections.cs" t="Include" />
+          <e p="ArrowDamage.cs" t="Include" />
           <e p="ArrowFix.cs" t="Include" />
           <e p="BulletLoop.cs" t="Include" />
           <e p="CharacterMover.cs" t="Include" />
           <e p="CookieMovement.cs" t="Include" />
           <e p="Counter.cs" t="Include" />
+          <e p="DestroyArrows.cs" t="Include" />
           <e p="DestroyObject.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
           <e p="FollowerAI.cs" t="Include" />
