@@ -11,4 +11,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 63eef89c4315f624a92c33f1e610e208, type: 3}
   m_Name: PeachHealth
   m_EditorClassIdentifier: 
-  Value: 1
+  Value: 0.2

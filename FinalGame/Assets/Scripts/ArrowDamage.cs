@@ -4,12 +4,11 @@ using UnityEngine;
 
 public class ArrowDamage : MonoBehaviour
 {
-
-	private void OnCollisionEnter(Collision other)
-	{
-		Destroy(gameObject);
-		Destroy(other.gameObject);
-
-	}
-
+   private void OnTriggerEnter(Collider other)
+   {
+      if (other.gameObject.tag == "Collision")
+      {
+         Destroy(other.gameObject);
+      }
+   }
 }
