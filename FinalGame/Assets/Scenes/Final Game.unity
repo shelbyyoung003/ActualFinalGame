@@ -11186,6 +11186,7 @@ GameObject:
   - component: {fileID: 540079278}
   - component: {fileID: 540079277}
   - component: {fileID: 540079276}
+  - component: {fileID: 540079279}
   m_Layer: 0
   m_Name: Ripley
   m_TagString: Untagged
@@ -11246,8 +11247,8 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 540079273}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 61.54, y: 47.62, z: 0}
-  m_LocalScale: {x: -1.5710672, y: 1.63704, z: 1.63704}
+  m_LocalPosition: {x: 61.54, y: 46.85, z: 0}
+  m_LocalScale: {x: -1.3511178, y: 1.4078544, z: 1.4078544}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 62
@@ -11318,6 +11319,18 @@ NavMeshAgent:
   m_BaseOffset: 2.645
   m_WalkableMask: 4294967295
   m_ObstacleAvoidanceType: 4
+--- !u!65 &540079279
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 540079273}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 4.4041147, y: 4.0306125, z: 0.2}
+  m_Center: {x: 0.21415825, y: 0, z: 0}
 --- !u!1 &561337113
 GameObject:
   m_ObjectHideFlags: 0
@@ -18578,7 +18591,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1362908465}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: -1.54, y: -0.54, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1065341904}
