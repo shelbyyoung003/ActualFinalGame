@@ -22,9 +22,9 @@ GameObject:
   - component: {fileID: 212394169697509710}
   - component: {fileID: 54347211855067062}
   - component: {fileID: 75729827836716772}
-  - component: {fileID: 114667123975749378}
   - component: {fileID: 65073706162851846}
-  - component: {fileID: 114553627322808416}
+  - component: {fileID: 114616492099894070}
+  - component: {fileID: 114758074841060260}
   m_Layer: 0
   m_Name: BunBullet 1
   m_TagString: Untagged
@@ -83,7 +83,7 @@ ConstantForce:
   m_RelativeForce: {x: -10, y: 0, z: 0}
   m_Torque: {x: 0, y: 0, z: 0}
   m_RelativeTorque: {x: 0, y: 0, z: 0}
---- !u!114 &114553627322808416
+--- !u!114 &114616492099894070
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
@@ -91,10 +91,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1776054556233514}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d6e1589cbf0eaaf41b9b53d5f00b5a1a, type: 3}
+  m_Script: {fileID: 11500000, guid: 62e9dbe8c6eee6a4e8518df8fd38dd36, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &114667123975749378
+--- !u!114 &114758074841060260
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
@@ -113,12 +113,13 @@ MonoBehaviour:
   Trigger:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_MethodName: 
-        m_Mode: 1
+      - m_Target: {fileID: 11400000, guid: c3e53e80ee19e1143b3ad4ea1da7445f, type: 2}
+        m_MethodName: SubtractValue
+        m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgument: {fileID: 11400000, guid: ccd686befed719641bf260109e4d109c,
+            type: 2}
+          m_ObjectArgumentAssemblyTypeName: FloatData, Assembly-CSharp
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 

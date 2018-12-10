@@ -24,6 +24,7 @@
           <e p="Loops.cs" t="Include" />
           <e p="MouseDownBehaviour.cs" t="Include" />
           <e p="MouseEventBehaviour.cs" t="Include" />
+          <e p="MurderBunHealth.cs" t="Include" />
           <e p="NameID.cs" t="Include" />
           <e p="ObjectCollections.cs" t="Include" />
           <e p="SwitchStatements.cs" t="Include" />
