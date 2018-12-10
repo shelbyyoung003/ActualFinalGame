@@ -117,7 +117,7 @@ MonoBehaviour:
         m_MethodName: SubtractValue
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 11400000, guid: ccd686befed719641bf260109e4d109c,
+          m_ObjectArgument: {fileID: 11400000, guid: 1150bdd227a46a84390c6d0a174b89e2,
             type: 2}
           m_ObjectArgumentAssemblyTypeName: FloatData, Assembly-CSharp
           m_IntArgument: 0
